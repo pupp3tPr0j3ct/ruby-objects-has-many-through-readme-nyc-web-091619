@@ -16,4 +16,9 @@ class Meal
       @@all
     end
     #````
+
+    def change_was_made
+      "learn submit next time; learn stops submitting if not"
+    end
+
 end
